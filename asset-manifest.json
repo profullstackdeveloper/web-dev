@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/web-dev/static/css/main.ec7467f5.chunk.css",
+    "main.js": "/web-dev/static/js/main.9aa517a6.chunk.js",
+    "main.js.map": "/web-dev/static/js/main.9aa517a6.chunk.js.map",
+    "runtime-main.js": "/web-dev/static/js/runtime-main.77faad62.js",
+    "runtime-main.js.map": "/web-dev/static/js/runtime-main.77faad62.js.map",
+    "static/js/2.85f16bb5.chunk.js": "/web-dev/static/js/2.85f16bb5.chunk.js",
+    "static/js/2.85f16bb5.chunk.js.map": "/web-dev/static/js/2.85f16bb5.chunk.js.map",
+    "static/css/3.df879eac.chunk.css": "/web-dev/static/css/3.df879eac.chunk.css",
+    "static/js/3.f3aada0e.chunk.js": "/web-dev/static/js/3.f3aada0e.chunk.js",
+    "static/js/3.f3aada0e.chunk.js.map": "/web-dev/static/js/3.f3aada0e.chunk.js.map",
+    "static/css/4.e91a4b36.chunk.css": "/web-dev/static/css/4.e91a4b36.chunk.css",
+    "static/js/4.1b8b74f6.chunk.js": "/web-dev/static/js/4.1b8b74f6.chunk.js",
+    "static/js/4.1b8b74f6.chunk.js.map": "/web-dev/static/js/4.1b8b74f6.chunk.js.map",
+    "index.html": "/web-dev/index.html",
+    "precache-manifest.6136e3283cfac55677fc8304f0f80105.js": "/web-dev/precache-manifest.6136e3283cfac55677fc8304f0f80105.js",
+    "service-worker.js": "/web-dev/service-worker.js",
+    "static/css/3.df879eac.chunk.css.map": "/web-dev/static/css/3.df879eac.chunk.css.map",
+    "static/css/4.e91a4b36.chunk.css.map": "/web-dev/static/css/4.e91a4b36.chunk.css.map",
+    "static/css/main.ec7467f5.chunk.css.map": "/web-dev/static/css/main.ec7467f5.chunk.css.map",
+    "static/js/2.85f16bb5.chunk.js.LICENSE.txt": "/web-dev/static/js/2.85f16bb5.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/web-dev/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/HKUST.png": "/web-dev/static/media/HKUST.7d37cfd1.png",
+    "static/media/codeInLogo.webp": "/web-dev/static/media/codeInLogo.47a7a717.webp",
+    "static/media/contactMailDark.svg": "/web-dev/static/media/contactMailDark.51cf7192.svg",
+    "static/media/developerActivity.svg": "/web-dev/static/media/developerActivity.59389695.svg",
+    "static/media/googleAssistantLogo.webp": "/web-dev/static/media/googleAssistantLogo.e79c6392.webp",
+    "static/media/housetable.png": "/web-dev/static/media/housetable.335c6e12.png",
+    "static/media/manOnTable.svg": "/web-dev/static/media/manOnTable.52be3144.svg",
+    "static/media/monsta.jpg": "/web-dev/static/media/monsta.94e74e06.jpg",
+    "static/media/pwaLogo.webp": "/web-dev/static/media/pwaLogo.ee62cb58.webp",
+    "static/media/skill.svg": "/web-dev/static/media/skill.34409398.svg",
+    "static/media/TalkCard.scss": "/web-dev/static/media/talksCardBack.13780cdd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77faad62.js",
+    "static/js/2.85f16bb5.chunk.js",
+    "static/css/main.ec7467f5.chunk.css",
+    "static/js/main.9aa517a6.chunk.js"
+  ]
+}
